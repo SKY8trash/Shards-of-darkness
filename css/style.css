@@ -1,0 +1,271 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: right;
+  background-image: url(/Users/lookt/Предпринимательство/img/глав\ экр.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0 400px 0;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'PT Serif', serif;
+}
+
+.header-logo {
+  text-align: left;
+  color: #a691d6;
+  font-size: 18px;
+  padding-left: 200px;
+  margin: -180px;
+}
+
+.nav {
+  display: flex;
+  margin: -165px;
+  padding-right: 160px;
+}
+
+.header ul li {
+  color: #a691d6;
+  display: inline-block;
+  list-style: none;
+  margin-right: 20px;
+  font-size: 18px;
+  padding-right: 20px;
+  text-decoration: none;
+}
+
+.main-h1 {
+  text-align: center;
+  font-size: 40px;
+  padding-top: 350px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.main-h2 {
+  text-align: left;
+  font-size: 26px;
+  padding-top: 200px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.main-h3 {
+  text-align: center;
+  font-size: 22px;
+  padding-top: 150px;
+  padding-left: 330px;
+  padding-right: 100px;
+  display: flex;
+}
+
+.main-h4 {
+  display: flex;
+  text-align: center;
+  font-size: 22px;
+  padding-top: 60px;
+  padding-left: 900px;
+}
+
+.main-h5 {
+  display: flex;
+  font-size: 26px;
+  text-align: left;
+  padding-top: 60px;
+  padding-left: 200px;
+}
+
+.main-p {
+  text-align: center;
+  font-size: 30px;
+  padding-top: 15px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.main-p1 {
+  padding-top: 25px;
+  text-align: center;
+  font-size: 30px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.main-p2 {
+  padding-top: 10px;
+  text-align: left;
+  font-size: 18px;
+  padding-left: 483px;
+  display: flex;
+  margin: -55px;
+}
+
+.main-p3 {
+  padding-top: 25px;
+  text-align: left;
+  font-size: 30px;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+
+.main-p4 {
+  padding-top: 25px;
+  text-align: left;
+  font-size: 20px;
+  padding-left: 150px;
+  padding-right: 150px;
+  display: flex;
+}
+
+.main-p5 {
+  padding-top: 25px;
+  text-align: center;
+  font-size: 20px;
+  display: flex;
+  padding-left: 250px;
+}
+
+.main-p6 {
+  padding-top: 25px;
+  text-align: center;
+  font-size: 20px;
+  display: flex;
+  padding-left: 285px;
+}
+
+.img-гг {
+  float: right;
+  display: flex;
+  padding-top: 0;
+  padding-left: 200px;
+}
+
+.img-ведьма {
+  display: flex;
+  padding-top: 0;
+  float: left;
+  padding-left: 200px;
+}
+
+.img-старик {
+  display: flex;
+  padding-top: 0px;
+  padding-left: 950px;
+}
+
+.footer-h1 {
+  text-align: center;
+  padding-top: 850px;
+  font-size: 52px;
+}
+
+.footer-p1 {
+  text-align: center;
+  padding-top: 50px;
+  font-size: 24px;
+}
+
+.img-footer {
+  justify-content: space-between;
+  padding-top: 100px;
+  display: flex;
+  padding-left: 180px;
+  padding-right: 150px;
+}
+
+.name1 {
+  display: inline-block;
+  border-radius: 50%;
+  overflow: hidden;
+  width: 283px;
+  height: 283px;
+  object-fit: cover;
+}
+
+.name2 {
+  display: inline-block;
+  border-radius: 50%;
+  overflow: hidden;
+  width: 283px;
+  height: 283px;
+  object-fit: cover;
+}
+
+.name3 {
+  display: inline-block;
+  border-radius: 50%;
+  overflow: hidden;
+  width: 283px;
+  height: 283px;
+  object-fit: cover;
+}
+
+.name-p1 {
+  display: flex;
+  font-size: 22px;
+  text-align: center;
+  justify-content: space-between;
+  padding-top: 25px;
+  padding-left: 220px;
+  padding-right: 210px;
+}
+
+.p-1 {
+  justify-content: space-between;
+  text-align: center;
+  display: flex;
+  padding-top: 10px;
+  font-size: 14px;
+  padding-left: 257px;
+  padding-right: 230px;
+}
+
+.name-p2 {
+  display: flex;
+  font-size: 22px;
+  text-align: center;
+  justify-content: space-between;
+  padding-top: 25px;
+  padding-left: 210px;
+  padding-right: 200px;
+}
+
+.p-2 {
+  justify-content: space-between;
+  text-align: center;
+  display: flex;
+  padding-top: 10px;
+  font-size: 14px;
+  padding-left: 257px;
+  padding-right: 208px;
+}
+
+.name-p3 {
+  display: flex;
+  font-size: 22px;
+  text-align: center;
+  justify-content: space-between;
+  padding-left: 230px;
+  padding-right: 210px;
+  padding-top: 25px;
+}
+
+.p-3 {
+  justify-content: space-between;
+  text-align: center;
+  display: flex;
+  padding-left: 235px;
+  padding-right: 200px;
+  padding-top: 10px;
+  font-size: 14px;
+}
+
+.footer {
+  padding: 0 0 150px;
+}
